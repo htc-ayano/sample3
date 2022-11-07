@@ -10,7 +10,7 @@ I would like to introduce the temples/shrines and their goshuins on this web sit
 ## Lists
 
 ### Temples
-1. Kiyomizu [more detail](./kiyomizu.md)
+1. Kiyomizu [more detail](https://htc-ayano.github.io/sample3/docs/kiyomizu.md)
 2. Eihei [more detail](docs/kiyomizu.md)
 3. Zenko [more detail](docs/kiyomizu.md)
 
