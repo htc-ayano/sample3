@@ -10,11 +10,11 @@ I would like to introduce the temples/shrines and their goshuins on this web sit
 ## Lists
 
 ### Temples
-+ Kiyomizu
-+ Eihei
-+ Zenko
+1. Kiyomizu
+2. Eihei
+3. Zenko
 
 ### Shrine
-+ Tsurugaoka-hachiman
-+ Osaki-hachiman
-+ Fuchimi-inari
+1. Tsurugaoka-hachiman
+2. Osaki-hachiman
+3. Fuchimi-inari
