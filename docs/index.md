@@ -10,11 +10,11 @@ I would like to introduce the temples/shrines and their goshuins on this web sit
 ## Lists
 
 ### Temples
-1. Kiyomizu [more detail](https://github.com/htc-ayano/sample3/blob/main/docs/kiyomizu.md)
-2. Eihei [more detail](../kiyomizu.md)
-3. Zenko [more detail](docs/kiyomizu.md)
+1. Kiyomizu [[more detail]](https://github.com/htc-ayano/sample3/blob/main/docs/kiyomizu.md)
+2. Eihei [[more detail]](https://github.com/htc-ayano/sample3/blob/main/docs/kiyomizu.md)
+3. Zenko [[more detail]](https://github.com/htc-ayano/sample3/blob/main/docs/kiyomizu.md)
 
 ### Shrine
-1. Tsurugaoka-hachiman [more detail](docs/kiyomizu.md)
-2. Osaki-hachiman [more detail](docs/kiyomizu.md)
-3. Fuchimi-inari [more detail](docs/kiyomizu.md)
+1. Tsurugaoka-hachiman [[more detail]](https://github.com/htc-ayano/sample3/blob/main/docs/kiyomizu.md)
+2. Osaki-hachiman [[more detail]](https://github.com/htc-ayano/sample3/blob/main/docs/kiyomizu.md)
+3. Fuchimi-inari [[more detail]](https://github.com/htc-ayano/sample3/blob/main/docs/kiyomizu.md)
